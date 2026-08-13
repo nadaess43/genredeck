@@ -29,6 +29,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.draw.shadow
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
@@ -47,7 +48,6 @@ fun GenreDeckApp(vm: GenreDeckViewModel = viewModel()) {
     val cards by vm.cards.collectAsState()
     val favorites by vm.favorites.collectAsState()
     val playlist by vm.playlist.collectAsState()
-    val context = LocalContext.current
 
     Scaffold(
         containerColor = MaterialTheme.colorScheme.background,
