@@ -1,0 +1,1352 @@
+[
+ {
+  "name": "Драм-н-бейс",
+  "description": "Быстрые брейкбиты и глубокий бас из рейв-сцены Англии. Скорость, драйв, ночные гонки.",
+  "origin": "Великобритания, начало 90-х",
+  "vibe": "Адреналин, скорость, сабвуфер",
+  "artists": "Pendulum",
+  "searchTrack": "Pendulum Tarantula",
+  "colorHex": "#00C2FF"
+ },
+ {
+  "name": "Фонк",
+  "description": "Бразильский стрит-фанк с грязными басами и дерзким вокалом. Хайп интернета и тачек.",
+  "origin": "Бразилия, 2000-е",
+  "vibe": "Дерзко, жарко, по-уличному",
+  "artists": "MC Fioti",
+  "searchTrack": "MC Fioti Bum Bum Tam Tam",
+  "colorHex": "#FF3D71"
+ },
+ {
+  "name": "Хип-хоп",
+  "description": "Речитатив на качающем бите. Голос улиц, амбиций и историй.",
+  "origin": "США, Бронкс, 70-е",
+  "vibe": "Уверенно, мощно",
+  "artists": "Kendrick Lamar",
+  "searchTrack": "Kendrick Lamar HUMBLE",
+  "colorHex": "#FFB300"
+ },
+ {
+  "name": "Трэп",
+  "description": "Ломаные хай-хэты и бас-землетрясение из Атланты. Ядро современного рэпа.",
+  "origin": "США, Атланта, 2000-е",
+  "vibe": "Мрачно, тяжело, громко",
+  "artists": "Travis Scott",
+  "searchTrack": "Travis Scott SICKO MODE",
+  "colorHex": "#9C27B0"
+ },
+ {
+  "name": "Синтвейв",
+  "description": "Неоновые синтезаторы и ретро-футуризм 80-х. Ночная трасса и закат на шоссе.",
+  "origin": "Франция/США, 2000-е",
+  "vibe": "Неон, ретро, ночной город",
+  "artists": "The Midnight",
+  "searchTrack": "The Midnight Sunset",
+  "colorHex": "#FF2E97"
+ },
+ {
+  "name": "Дабстеп",
+  "description": "Вибрирующий бас-вау и тёмные грувы из Лондона.",
+  "origin": "Великобритания, 2000-е",
+  "vibe": "Бас в грудь, мрак",
+  "artists": "Skrillex",
+  "searchTrack": "Skrillex Scary Monsters",
+  "colorHex": "#00E676"
+ },
+ {
+  "name": "Лоу-фай",
+  "description": "Тёплые биты с шумом винила. Музыка для учёбы и дождя.",
+  "origin": "США/Япония, 2010-е",
+  "vibe": "Уютно, спокойно, ностальгично",
+  "artists": "Nujabes",
+  "searchTrack": "Nujabes Feather",
+  "colorHex": "#FFB74D"
+ },
+ {
+  "name": "Техно",
+  "description": "Минималистичный механический ритм для бетонных клубов.",
+  "origin": "Германия/Детройт, 80-е",
+  "vibe": "Механика, бетон, транс",
+  "artists": "Charlotte de Witte",
+  "searchTrack": "Charlotte de Witte Age of Love",
+  "colorHex": "#5C6BC0"
+ },
+ {
+  "name": "Хаус",
+  "description": "Тёплый четырёхдольный грув для танцпола. Солнце и руки вверх.",
+  "origin": "США, Чикаго, 80-е",
+  "vibe": "Солнечно, танцевально",
+  "artists": "Daft Punk",
+  "searchTrack": "Daft Punk One More Time",
+  "colorHex": "#FF8A65"
+ },
+ {
+  "name": "Транс",
+  "description": "Взлетающие синтезаторные арпеджио и эйфория. Музыка для полёта.",
+  "origin": "Германия, 90-е",
+  "vibe": "Эйфория, полёт, слеза",
+  "artists": "Armin van Buuren",
+  "searchTrack": "Armin van Buuren Blah Blah Blah",
+  "colorHex": "#00BFA5"
+ },
+ {
+  "name": "Джаз",
+  "description": "Импровизация, свинг и свобода. Язык, на котором музыканты спорят без слов.",
+  "origin": "США, Новый Орлеан, начало 20 века",
+  "vibe": "Свободно, умно, с душой",
+  "artists": "Miles Davis",
+  "searchTrack": "Miles Davis So What",
+  "colorHex": "#FFC107"
+ },
+ {
+  "name": "Блюз",
+  "description": "Тоска, гитарные переливы и «синие ноты». Душа всей современной музыки.",
+  "origin": "США, Дельта Миссисипи, 1900-е",
+  "vibe": "Грустно-красиво, по-честному",
+  "artists": "B.B. King",
+  "searchTrack": "B.B. King The Thrill Is Gone",
+  "colorHex": "#3E50B4"
+ },
+ {
+  "name": "Рок",
+  "description": "Гитары, драйв и бунт. Из гаражей — на стадионы.",
+  "origin": "США/Великобритания, 50-е",
+  "vibe": "Энергично, свободно",
+  "artists": "AC/DC",
+  "searchTrack": "AC/DC Back In Black",
+  "colorHex": "#E53935"
+ },
+ {
+  "name": "Метал",
+  "description": "Тяжёлые риффы, мощь и мрак. Громче всех.",
+  "origin": "Великобритания, 70-е",
+  "vibe": "Тяжело, зло, величественно",
+  "artists": "Metallica",
+  "searchTrack": "Metallica Enter Sandman",
+  "colorHex": "#37474F"
+ },
+ {
+  "name": "Панк",
+  "description": "Три аккорда, злость и «плевать на всех».",
+  "origin": "США/Великобритания, 70-е",
+  "vibe": "Зло, быстро, грязно",
+  "artists": "The Ramones",
+  "searchTrack": "Ramones Blitzkrieg Bop",
+  "colorHex": "#F44336"
+ },
+ {
+  "name": "Поп",
+  "description": "Главный жанр радио: запоминающиеся припевы и хайп.",
+  "origin": "США/Великобритания, 50-е",
+  "vibe": "Легко, ярко, заразительно",
+  "artists": "Taylor Swift",
+  "searchTrack": "Taylor Swift Shake It Off",
+  "colorHex": "#FF6090"
+ },
+ {
+  "name": "R&B",
+  "description": "Гладкий вокал и неон городских ночей.",
+  "origin": "США, 40-е",
+  "vibe": "Сексуально, плавно",
+  "artists": "The Weeknd",
+  "searchTrack": "The Weeknd Blinding Lights",
+  "colorHex": "#7E57C2"
+ },
+ {
+  "name": "Соул",
+  "description": "Душевный вокал и госпел-энергия. Крик души, ставший музыкой.",
+  "origin": "США, 50-60-е",
+  "vibe": "Тепло, душевно, мощно",
+  "artists": "Aretha Franklin",
+  "searchTrack": "Aretha Franklin Respect",
+  "colorHex": "#EF5350"
+ },
+ {
+  "name": "Фанк",
+  "description": "Синкопированный бас и «дай мне этот грув».",
+  "origin": "США, 60-е",
+  "vibe": "Грув, дерзость, вечеринка",
+  "artists": "James Brown",
+  "searchTrack": "James Brown Get Up",
+  "colorHex": "#FF7043"
+ },
+ {
+  "name": "Диско",
+  "description": "Зеркальный шар, блеск и четырёхдольный бит.",
+  "origin": "США, 70-е",
+  "vibe": "Блестяще, танцевально",
+  "artists": "Bee Gees",
+  "searchTrack": "Bee Gees Stayin Alive",
+  "colorHex": "#EC407A"
+ },
+ {
+  "name": "Рэгги",
+  "description": "Ленивый оффбит, солнце и философия раста.",
+  "origin": "Ямайка, 60-е",
+  "vibe": "Расслабленно, солнечно",
+  "artists": "Bob Marley",
+  "searchTrack": "Bob Marley No Woman No Cry",
+  "colorHex": "#43A047"
+ },
+ {
+  "name": "Даб",
+  "description": "Инструментальный рэгги с эхом и реверберацией. Предок электроники.",
+  "origin": "Ямайка, 70-е",
+  "vibe": "Космос, дым, глубина",
+  "artists": "Lee Scratch Perry",
+  "searchTrack": "Lee Perry Blackboard Jungle",
+  "colorHex": "#00897B"
+ },
+ {
+  "name": "Классика",
+  "description": "Симфонии, оркестры и проверенная веками красота.",
+  "origin": "Европа, 17-19 века",
+  "vibe": "Возвышенно, эпично",
+  "artists": "Beethoven",
+  "searchTrack": "Beethoven Symphony No 5",
+  "colorHex": "#6D4C41"
+ },
+ {
+  "name": "Электро",
+  "description": "Ранние синтезаторные ритмы, из которых выросла вся танцевальная сцена.",
+  "origin": "США/Германия, 80-е",
+  "vibe": "Ретро-футуризм, механика",
+  "artists": "Kraftwerk",
+  "searchTrack": "Kraftwerk The Robots",
+  "colorHex": "#26A69A"
+ },
+ {
+  "name": "Эмбиент",
+  "description": "Атмосфера без ритма. Музыка как пространство.",
+  "origin": "Великобритания, 70-е",
+  "vibe": "Космос, сон, глубина",
+  "artists": "Brian Eno",
+  "searchTrack": "Brian Eno An Ending",
+  "colorHex": "#90A4AE"
+ },
+ {
+  "name": "Чиллвейв",
+  "description": "Ленивые синтезаторы и ностальгия по лету.",
+  "origin": "США, 2000-е",
+  "vibe": "Лето, ностальгия, лёгкость",
+  "artists": "Washed Out",
+  "searchTrack": "Washed Out Feel It All Around",
+  "colorHex": "#FFCC80"
+ },
+ {
+  "name": "Вейпорвейв",
+  "description": "Замедленные сэмплы 80-90-х, эстетика VHS и маллов.",
+  "origin": "Интернет, 2010-е",
+  "vibe": "Ирония, ностальгия, глюки",
+  "artists": "Saint Pepsi",
+  "searchTrack": "Saint Pepsi Enjoy Yourself",
+  "colorHex": "#AB47BC"
+ },
+ {
+  "name": "Фьюче-бейс",
+  "description": "Яркие синтезаторы и бит, который звучит как цвет.",
+  "origin": "США, 2010-е",
+  "vibe": "Ярко, нежно, неоново",
+  "artists": "Flume",
+  "searchTrack": "Flume Never Be Like You",
+  "colorHex": "#FF4081"
+ },
+ {
+  "name": "Хардстайл",
+  "description": "Сверхскоростной клубный звук с «кик-кик-кик» и мелодией.",
+  "origin": "Нидерланды, 2000-е",
+  "vibe": "Максимум энергии",
+  "artists": "Headhunterz",
+  "searchTrack": "Headhunterz Dragonborn",
+  "colorHex": "#FF6F00"
+ },
+ {
+  "name": "Хардкор-техно",
+  "description": "Агрессивный, ультрабыстрый, на пределе.",
+  "origin": "Нидерланды/Бельгия, 90-е",
+  "vibe": "Ярость, скорость",
+  "artists": "Angerfist",
+  "searchTrack": "Angerfist Raise Your Fist",
+  "colorHex": "#B71C1C"
+ },
+ {
+  "name": "Джангл",
+  "description": "Ранний драм-н-бейс с регги-вокалом и безумными брейками.",
+  "origin": "Великобритания, 90-е",
+  "vibe": "Хаос, энергия, рейв",
+  "artists": "Aphrodite",
+  "searchTrack": "Aphrodite Bad Ass",
+  "colorHex": "#4DB6AC"
+ },
+ {
+  "name": "Брейкс",
+  "description": "Рваные брейкбиты и грув для танцпола.",
+  "origin": "США/Великобритания, 80-е",
+  "vibe": "Рвано, грув, кач",
+  "artists": "The Prodigy",
+  "searchTrack": "The Prodigy Voodoo People",
+  "colorHex": "#78909C"
+ },
+ {
+  "name": "Гэридж",
+  "description": "Вокал-хаус из Лондона с оффбитовым свингом.",
+  "origin": "Великобритания, 90-е",
+  "vibe": "Гладко, город, свинг",
+  "artists": "MJ Cole",
+  "searchTrack": "MJ Cole Sincere",
+  "colorHex": "#26C6DA"
+ },
+ {
+  "name": "Грайм",
+  "description": "Рэп на минималистичных битах 140 BPM из Лондона.",
+  "origin": "Великобритания, 2000-е",
+  "vibe": "Город, злость, кач",
+  "artists": "Skepta",
+  "searchTrack": "Skepta Shutdown",
+  "colorHex": "#455A64"
+ },
+ {
+  "name": "Дрилл",
+  "description": "Мрачный чикагский рэп с «плавающим» битом.",
+  "origin": "США, Чикаго, 2010-е",
+  "vibe": "Мрачно, опасно",
+  "artists": "Chief Keef",
+  "searchTrack": "Chief Keef Love Sosa",
+  "colorHex": "#212121"
+ },
+ {
+  "name": "Мемфис-рэп",
+  "description": "Тёмные луп-сэмплы 90-х, предок трэпа.",
+  "origin": "США, Мемфис, 90-е",
+  "vibe": "Тёмно, потусторонне",
+  "artists": "Three 6 Mafia",
+  "searchTrack": "Three 6 Mafia Stay Fly",
+  "colorHex": "#4A148C"
+ },
+ {
+  "name": "Клауд-рэп",
+  "description": "Медленный, воздушный, как будто под водой.",
+  "origin": "США, 2010-е",
+  "vibe": "Мечтательно, отрешённо",
+  "artists": "A$AP Rocky",
+  "searchTrack": "A$AP Rocky L$D",
+  "colorHex": "#7E57C2"
+ },
+ {
+  "name": "Альтернативный рок",
+  "description": "Гитарный рок вне мейнстрима: эксперименты и настроение.",
+  "origin": "США, 80-90-е",
+  "vibe": "Умно, нестандартно",
+  "artists": "Radiohead",
+  "searchTrack": "Radiohead Creep",
+  "colorHex": "#66BB6A"
+ },
+ {
+  "name": "Инди-рок",
+  "description": "Независимые группы, DIY-этика и честные тексты.",
+  "origin": "США/Великобритания, 2000-е",
+  "vibe": "Душевно, камерно",
+  "artists": "Arctic Monkeys",
+  "searchTrack": "Arctic Monkeys Do I Wanna Know",
+  "colorHex": "#81C784"
+ },
+ {
+  "name": "Пост-панк",
+  "description": "Мрачные басы и отстранённый вокал. Умный панк.",
+  "origin": "Великобритания, 70-80-е",
+  "vibe": "Холодно, умно",
+  "artists": "Joy Division",
+  "searchTrack": "Joy Division Love Will Tear Us Apart",
+  "colorHex": "#607D8B"
+ },
+ {
+  "name": "Индастриал",
+  "description": "Шум машин, металл и ритм заводов.",
+  "origin": "Германия/США, 70-80-е",
+  "vibe": "Механика, агрессия",
+  "artists": "Nine Inch Nails",
+  "searchTrack": "Nine Inch Nails Closer",
+  "colorHex": "#546E7A"
+ },
+ {
+  "name": "Синти-поп",
+  "description": "Мелодичный поп на синтезаторах. Блеск и нежность.",
+  "origin": "Великобритания, 80-е",
+  "vibe": "Ярко, нежно",
+  "artists": "Depeche Mode",
+  "searchTrack": "Depeche Mode Enjoy the Silence",
+  "colorHex": "#4DD0E1"
+ },
+ {
+  "name": "Нью-вейв",
+  "description": "Энергичный пост-панк с синтезаторами.",
+  "origin": "Великобритания, 70-80-е",
+  "vibe": "Драйв, странность",
+  "artists": "The Cure",
+  "searchTrack": "The Cure Just Like Heaven",
+  "colorHex": "#5E35B1"
+ },
+ {
+  "name": "К-поп",
+  "description": "Корейский поп: идеальные группы, хореография и хайп.",
+  "origin": "Южная Корея, 90-е",
+  "vibe": "Ярко, идеально, заразительно",
+  "artists": "BTS",
+  "searchTrack": "BTS Dynamite",
+  "colorHex": "#F06292"
+ },
+ {
+  "name": "Джей-поп",
+  "description": "Японский поп с аниме-эстетикой и энергией.",
+  "origin": "Япония, 90-е",
+  "vibe": "Энергично, мило",
+  "artists": "YOASOBI",
+  "searchTrack": "YOASOBI Idol",
+  "colorHex": "#BA68C8"
+ },
+ {
+  "name": "Аниме-саундтреки",
+  "description": "Музыка из аниме: от эпичных опенингов до нежных пиано.",
+  "origin": "Япония",
+  "vibe": "Эпично, эмоционально",
+  "artists": "Hiroyuki Sawano",
+  "searchTrack": "Hiroyuki Sawano Guren no Yumiya",
+  "colorHex": "#EF9A9A"
+ },
+ {
+  "name": "Сити-поп",
+  "description": "Японский поп 80-х с фанком и джазом. Вечное лето в Токио.",
+  "origin": "Япония, 80-е",
+  "vibe": "Лето, ночной город, стиль",
+  "artists": "Tatsuro Yamashita",
+  "searchTrack": "Tatsuro Yamashita Ride on Time",
+  "colorHex": "#FFB74D"
+ },
+ {
+  "name": "Шансон",
+  "description": "Дворовые истории под аккордеон и гитару.",
+  "origin": "Франция/Россия",
+  "vibe": "Душевно, по-простому",
+  "artists": "Михаил Шуфутинский",
+  "searchTrack": "Михаил Шуфутинский Третье сентября",
+  "colorHex": "#8D6E63"
+ },
+ {
+  "name": "Русский рэп",
+  "description": "Речитатив на русском: от уличного до философского.",
+  "origin": "Россия, 90-е",
+  "vibe": "Слово, ритм, жизнь",
+  "artists": "Oxxxymiron",
+  "searchTrack": "Oxxxymiron Переплетено",
+  "colorHex": "#3949AB"
+ },
+ {
+  "name": "Русский рок",
+  "description": "Гитарный рок с русскими текстами и душой.",
+  "origin": "СССР/Россия, 80-е",
+  "vibe": "Душевно, громко",
+  "artists": "Кино",
+  "searchTrack": "Кино Группа Крови",
+  "colorHex": "#EF5350"
+ },
+ {
+  "name": "Фолк",
+  "description": "Народные песни и традиции. Корни всей музыки.",
+  "origin": "Весь мир",
+  "vibe": "Тепло, по-домашнему",
+  "artists": "Mumford and Sons",
+  "searchTrack": "Mumford and Sons Little Lion Man",
+  "colorHex": "#A1887F"
+ },
+ {
+  "name": "Кантри",
+  "description": "Гитары, ковбои и истории о жизни.",
+  "origin": "США, 20-е",
+  "vibe": "Просто, солнечно",
+  "artists": "Johnny Cash",
+  "searchTrack": "Johnny Cash Hurt",
+  "colorHex": "#8D6E63"
+ },
+ {
+  "name": "Босанова",
+  "description": "Мягкий бразильский джаз. Музыка пляжей и закатов.",
+  "origin": "Бразилия, 50-60-е",
+  "vibe": "Лёгкость, романтика",
+  "artists": "Joao Gilberto",
+  "searchTrack": "Joao Gilberto Girl from Ipanema",
+  "colorHex": "#4DB6AC"
+ },
+ {
+  "name": "Самба",
+  "description": "Ритм карнавала: барабаны и радость жизни.",
+  "origin": "Бразилия, 20-е",
+  "vibe": "Праздник, движение",
+  "artists": "Seu Jorge",
+  "searchTrack": "Seu Jorge Tive Razao",
+  "colorHex": "#FF7043"
+ },
+ {
+  "name": "Танго",
+  "description": "Страсть, диминуэндо и объятия.",
+  "origin": "Аргентина, 1900-е",
+  "vibe": "Страстно, драматично",
+  "artists": "Astor Piazzolla",
+  "searchTrack": "Astor Piazzolla Libertango",
+  "colorHex": "#AD1457"
+ },
+ {
+  "name": "Фламенко",
+  "description": "Гитара, ладони и крик души Андалусии.",
+  "origin": "Испания, 18 век",
+  "vibe": "Огонь, гордость, страсть",
+  "artists": "Paco de Lucia",
+  "searchTrack": "Paco de Lucia Entre Dos Aguas",
+  "colorHex": "#D32F2F"
+ },
+ {
+  "name": "Ирландский фолк",
+  "description": "Скрипки, свистки и бочки. Веселье пабов.",
+  "origin": "Ирландия",
+  "vibe": "Весело, задорно",
+  "artists": "The Dubliners",
+  "searchTrack": "The Dubliners Whiskey in the Jar",
+  "colorHex": "#66BB6A"
+ },
+ {
+  "name": "Дум-метал",
+  "description": "Медленный, тяжёлый, как будто время остановилось.",
+  "origin": "Великобритания/США, 80-е",
+  "vibe": "Мрак, тоска, тяжесть",
+  "artists": "Black Sabbath",
+  "searchTrack": "Black Sabbath Paranoid",
+  "colorHex": "#263238"
+ },
+ {
+  "name": "Дэт-метал",
+  "description": "Гроулинг, скорость и техничность.",
+  "origin": "США, 80-е",
+  "vibe": "Брутально, технично",
+  "artists": "Death",
+  "searchTrack": "Death Crystal Mountain",
+  "colorHex": "#37474F"
+ },
+ {
+  "name": "Блэк-метал",
+  "description": "Сырой, холодный, с бласт-битами. Музыка севера.",
+  "origin": "Норвегия, 90-е",
+  "vibe": "Холод, мрак, хаос",
+  "artists": "Mayhem",
+  "searchTrack": "Mayhem Freezing Moon",
+  "colorHex": "#1A1A1A"
+ },
+ {
+  "name": "Пауэр-метал",
+  "description": "Быстрый, эпичный, с оперным вокалом.",
+  "origin": "Германия, 80-е",
+  "vibe": "Эпично, героически",
+  "artists": "Helloween",
+  "searchTrack": "Helloween Eagle Fly Free",
+  "colorHex": "#FFD54F"
+ },
+ {
+  "name": "Прогрессив-метал",
+  "description": "Сложные размеры, длинные композиции и виртуозность.",
+  "origin": "США, 80-90-е",
+  "vibe": "Умно, виртуозно",
+  "artists": "Dream Theater",
+  "searchTrack": "Dream Theater Pull Me Under",
+  "colorHex": "#90CAF9"
+ },
+ {
+  "name": "Ню-метал",
+  "description": "Тяжёлые риффы и рэп-вокал конца 90-х.",
+  "origin": "США, 90-е",
+  "vibe": "Злость, кач",
+  "artists": "Linkin Park",
+  "searchTrack": "Linkin Park Numb",
+  "colorHex": "#7CB342"
+ },
+ {
+  "name": "Гранж",
+  "description": "Грязные гитары и искренняя злость Сиэтла.",
+  "origin": "США, Сиэтл, 90-е",
+  "vibe": "Грязно, искренне",
+  "artists": "Nirvana",
+  "searchTrack": "Nirvana Smells Like Teen Spirit",
+  "colorHex": "#8BC34A"
+ },
+ {
+  "name": "Брит-поп",
+  "description": "Самоуверенные гитарные гимны Британии 90-х.",
+  "origin": "Великобритания, 90-е",
+  "vibe": "Задорно, гимново",
+  "artists": "Oasis",
+  "searchTrack": "Oasis Wonderwall",
+  "colorHex": "#42A5F5"
+ },
+ {
+  "name": "Шугейз",
+  "description": "Стена гитарного шума и мечтательный вокал.",
+  "origin": "Великобритания, 90-е",
+  "vibe": "Как сон, как шум",
+  "artists": "My Bloody Valentine",
+  "searchTrack": "My Bloody Valentine Only Shallow",
+  "colorHex": "#CE93D8"
+ },
+ {
+  "name": "Дрим-поп",
+  "description": "Воздушные мелодии и нежные голоса.",
+  "origin": "Великобритания, 80-90-е",
+  "vibe": "Нежно, воздушно",
+  "artists": "Beach House",
+  "searchTrack": "Beach House Space Song",
+  "colorHex": "#B39DDB"
+ },
+ {
+  "name": "Слоукор",
+  "description": "Медленные грустные гитары. Музыка тихих комнат.",
+  "origin": "США, 90-е",
+  "vibe": "Грустно, тихо, честно",
+  "artists": "Red House Painters",
+  "searchTrack": "Red House Painters Katy Song",
+  "colorHex": "#9E9D24"
+ },
+ {
+  "name": "Эмо",
+  "description": "Исповеди под гитару: боль и чувства наружу.",
+  "origin": "США, 80-90-е",
+  "vibe": "Честно, больно",
+  "artists": "My Chemical Romance",
+  "searchTrack": "My Chemical Romance Welcome to the Black Parade",
+  "colorHex": "#E91E63"
+ },
+ {
+  "name": "Поп-панк",
+  "description": "Быстрые гитары и подростковый драйв.",
+  "origin": "США, 90-е",
+  "vibe": "Энергично, молодо",
+  "artists": "Green Day",
+  "searchTrack": "Green Day Basket Case",
+  "colorHex": "#66BB6A"
+ },
+ {
+  "name": "Ска",
+  "description": "Быстрый ритм с оффбитом и медными духовыми.",
+  "origin": "Ямайка, 60-е",
+  "vibe": "Солнечно, задорно",
+  "artists": "The Specials",
+  "searchTrack": "The Specials Ghost Town",
+  "colorHex": "#FDD835"
+ },
+ {
+  "name": "Ска-панк",
+  "description": "Ска + панк-энергия = танцы и пот.",
+  "origin": "США/Великобритания, 80-е",
+  "vibe": "Дико, весело",
+  "artists": "Sublime",
+  "searchTrack": "Sublime Santeria",
+  "colorHex": "#C0CA33"
+ },
+ {
+  "name": "Дэнсхолл",
+  "description": "Быстрый ямайский речитатив под цифровой бит.",
+  "origin": "Ямайка, 80-е",
+  "vibe": "Кач, жара",
+  "artists": "Sean Paul",
+  "searchTrack": "Sean Paul Temperature",
+  "colorHex": "#FFB300"
+ },
+ {
+  "name": "Афробитс",
+  "description": "Нигерийские ритмы, фанк и духовые. Праздник в каждом бите.",
+  "origin": "Нигерия, 70-е",
+  "vibe": "Праздник, энергия",
+  "artists": "Fela Kuti",
+  "searchTrack": "Fela Kuti Water No Get Enemy",
+  "colorHex": "#F57C00"
+ },
+ {
+  "name": "Амапиано",
+  "description": "Южноафриканский хаус с фортепиано. Танцы в Соуэто.",
+  "origin": "ЮАР, 2010-е",
+  "vibe": "Танцевально, душевно",
+  "artists": "Kabza De Small",
+  "searchTrack": "Kabza De Small Umshove",
+  "colorHex": "#FFA726"
+ },
+ {
+  "name": "Гараж-рок",
+  "description": "Грязные гитары и сырой звук гаражей.",
+  "origin": "США, 60-е",
+  "vibe": "Грязно, сыро, кайфово",
+  "artists": "The White Stripes",
+  "searchTrack": "The White Stripes Seven Nation Army",
+  "colorHex": "#E57373"
+ },
+ {
+  "name": "Сёрф-рок",
+  "description": "Реверберирующие гитары и волны.",
+  "origin": "США, 60-е",
+  "vibe": "Солнце, море, скорость",
+  "artists": "Dick Dale",
+  "searchTrack": "Dick Dale Misirlou",
+  "colorHex": "#4FC3F7"
+ },
+ {
+  "name": "Психоделический рок",
+  "description": "Кислотные гитары и путешествия в сознание.",
+  "origin": "США/Великобритания, 60-е",
+  "vibe": "Трипово, космос",
+  "artists": "Pink Floyd",
+  "searchTrack": "Pink Floyd Time",
+  "colorHex": "#7C4DFF"
+ },
+ {
+  "name": "Краут-рок",
+  "description": "Немецкий рок-минимализм: моторик-бит и гипноз.",
+  "origin": "Германия, 70-е",
+  "vibe": "Гипнотично, механично",
+  "artists": "Can",
+  "searchTrack": "Can Vitamin C",
+  "colorHex": "#616161"
+ },
+ {
+  "name": "Стоунер-рок",
+  "description": "Тяжёлые «ленивые» риффы. Музыка пустыни.",
+  "origin": "США, 90-е",
+  "vibe": "Тяжело, лениво",
+  "artists": "Queens of the Stone Age",
+  "searchTrack": "Queens of the Stone Age No One Knows",
+  "colorHex": "#A1887F"
+ },
+ {
+  "name": "Хард-рок",
+  "description": "Мощные риффы и гимны рок-н-ролла.",
+  "origin": "США/Великобритания, 70-е",
+  "vibe": "Мощно, гимново",
+  "artists": "Led Zeppelin",
+  "searchTrack": "Led Zeppelin Whole Lotta Love",
+  "colorHex": "#E53935"
+ },
+ {
+  "name": "Прогрессив-рок",
+  "description": "Длинные сюиты, клавиши и музыкальные путешествия.",
+  "origin": "Великобритания, 70-е",
+  "vibe": "Эпично, умно",
+  "artists": "Pink Floyd",
+  "searchTrack": "Pink Floyd Shine On You Crazy Diamond",
+  "colorHex": "#5C6BC0"
+ },
+ {
+  "name": "Глэм-рок",
+  "description": "Блеск, макияж и громкие хиты.",
+  "origin": "Великобритания, 70-е",
+  "vibe": "Пафосно, блестяще",
+  "artists": "David Bowie",
+  "searchTrack": "David Bowie Starman",
+  "colorHex": "#EC407A"
+ },
+ {
+  "name": "Готик-рок",
+  "description": "Мрачные басы и романтика тьмы.",
+  "origin": "Великобритания, 80-е",
+  "vibe": "Тёмно, романтично",
+  "artists": "Bauhaus",
+  "searchTrack": "Bauhaus Bela Lugosi Dead",
+  "colorHex": "#4527A0"
+ },
+ {
+  "name": "Дарквейв",
+  "description": "Синтетический мрак и холодная меланхолия.",
+  "origin": "Германия/США, 80-е",
+  "vibe": "Холодно, мрачно",
+  "artists": "Boy Harsher",
+  "searchTrack": "Boy Harsher Pain",
+  "colorHex": "#37474F"
+ },
+ {
+  "name": "Минимал-техно",
+  "description": "Один ритм, минимум звуков, максимум гипноза.",
+  "origin": "Германия, 90-е",
+  "vibe": "Гипноз, бетон",
+  "artists": "Richie Hawtin",
+  "searchTrack": "Richie Hawtin Spastik",
+  "colorHex": "#455A64"
+ },
+ {
+  "name": "Детройт-техно",
+  "description": "Тёплый, футуристичный техно-звук из Мотор-Сити.",
+  "origin": "США, Детройт, 80-е",
+  "vibe": "Футуризм, душа",
+  "artists": "Juan Atkins",
+  "searchTrack": "Juan Atkins Clear",
+  "colorHex": "#00838F"
+ },
+ {
+  "name": "Эйсид-хаус",
+  "description": "Квакающий звук TB-303 и угар кислоты.",
+  "origin": "США, Чикаго, 80-е",
+  "vibe": "Кислотно, угарно",
+  "artists": "Phuture",
+  "searchTrack": "Phuture Acid Tracks",
+  "colorHex": "#76FF03"
+ },
+ {
+  "name": "Дип-хаус",
+  "description": "Гладкий, тёплый хаус с джазовыми аккордами.",
+  "origin": "США, 80-е",
+  "vibe": "Глубоко, гладко",
+  "artists": "Kerri Chandler",
+  "searchTrack": "Kerri Chandler Rain",
+  "colorHex": "#80DEEA"
+ },
+ {
+  "name": "Тех-хаус",
+  "description": "Хаус с техно-минимализмом для больших залов.",
+  "origin": "Германия/Испания, 2000-е",
+  "vibe": "Грув, зал",
+  "artists": "Solomun",
+  "searchTrack": "Solomun Kackvogel",
+  "colorHex": "#90A4AE"
+ },
+ {
+  "name": "Фьюче-хаус",
+  "description": "Яркий хаус с тропическими аккордами.",
+  "origin": "Швеция, 2010-е",
+  "vibe": "Ярко, танцевально",
+  "artists": "Tchami",
+  "searchTrack": "Tchami After Life",
+  "colorHex": "#FFAB40"
+ },
+ {
+  "name": "Бейс-хаус",
+  "description": "Мощный бас и тембр бубна.",
+  "origin": "США/Великобритания, 2010-е",
+  "vibe": "Бас, жара",
+  "artists": "AC Slater",
+  "searchTrack": "AC Slater Bass Head",
+  "colorHex": "#FF5722"
+ },
+ {
+  "name": "Спид-гэридж",
+  "description": "Современный гэридж на стероидах.",
+  "origin": "Великобритания, 2020-е",
+  "vibe": "Быстро, свежо",
+  "artists": "Soulja",
+  "searchTrack": "Soulja UK Garage",
+  "colorHex": "#26C6DA"
+ },
+ {
+  "name": "Брейкбит-хардкор",
+  "description": "Сверхскоростные брейки и рейв-мелодии.",
+  "origin": "Великобритания, 90-е",
+  "vibe": "Рейв, скорость",
+  "artists": "The Prodigy",
+  "searchTrack": "The Prodigy Charly",
+  "colorHex": "#7E57C2"
+ },
+ {
+  "name": "Биг-бит",
+  "description": "Массивные биты и хайп для вечеринок.",
+  "origin": "Великобритания, 90-е",
+  "vibe": "Мощно, кач",
+  "artists": "The Chemical Brothers",
+  "searchTrack": "The Chemical Brothers Block Rockin Beats",
+  "colorHex": "#EF6C00"
+ },
+ {
+  "name": "Трип-хоп",
+  "description": "Медленные биты, дым и меланхолия.",
+  "origin": "Великобритания, 90-е",
+  "vibe": "Дымно, меланхолично",
+  "artists": "Massive Attack",
+  "searchTrack": "Massive Attack Teardrop",
+  "colorHex": "#5D4037"
+ },
+ {
+  "name": "Даунтемпо",
+  "description": "Расслабленный темп для ночных мыслей.",
+  "origin": "Весь мир, 90-е",
+  "vibe": "Спокойно, глубоко",
+  "artists": "Bonobo",
+  "searchTrack": "Bonobo Kerala",
+  "colorHex": "#A5D6A7"
+ },
+ {
+  "name": "IDM",
+  "description": "Умная электроника: биты-пазлы и детали.",
+  "origin": "Великобритания, 90-е",
+  "vibe": "Умно, детально",
+  "artists": "Aphex Twin",
+  "searchTrack": "Aphex Twin Windowlicker",
+  "colorHex": "#9575CD"
+ },
+ {
+  "name": "Глитч",
+  "description": "Сломанные звуки и цифровые ошибки как музыка.",
+  "origin": "Европа, 90-е",
+  "vibe": "Глючно, странно",
+  "artists": "Autechre",
+  "searchTrack": "Autechre Gantz Graf",
+  "colorHex": "#78909C"
+ },
+ {
+  "name": "Неоклассика",
+  "description": "Классика встретила электронику. Слёзы и мрак.",
+  "origin": "Европа, 2000-е",
+  "vibe": "Красиво, печально",
+  "artists": "Olafur Arnalds",
+  "searchTrack": "Olafur Arnalds Near Light",
+  "colorHex": "#B0BEC5"
+ },
+ {
+  "name": "Саундтреки",
+  "description": "Музыка кино: саспенс, эпик и слёзы.",
+  "origin": "Голливуд",
+  "vibe": "Кинематографично",
+  "artists": "Hans Zimmer",
+  "searchTrack": "Hans Zimmer Time",
+  "colorHex": "#546E7A"
+ },
+ {
+  "name": "Видеоигровая музыка",
+  "description": "Саундтреки игр: от 8-бит до оркестров.",
+  "origin": "Весь мир",
+  "vibe": "Ностальгия, эпик",
+  "artists": "Koji Kondo",
+  "searchTrack": "Zelda Main Theme",
+  "colorHex": "#26A69A"
+ },
+ {
+  "name": "Чиптюн",
+  "description": "Музыка из звуков старых консолей.",
+  "origin": "Япония/США, 80-е",
+  "vibe": "Ностальгия, пиксели",
+  "artists": "Anamanaguchi",
+  "searchTrack": "Anamanaguchi Meow",
+  "colorHex": "#4FC3F7"
+ },
+ {
+  "name": "Дарк-синт",
+  "description": "Агрессивный синтвейв с мраком и неоном.",
+  "origin": "Франция, 2010-е",
+  "vibe": "Мрачно, неоново",
+  "artists": "Carpenter Brut",
+  "searchTrack": "Carpenter Brut Turbo Killer",
+  "colorHex": "#C2185B"
+ },
+ {
+  "name": "Дарк-эмбиент",
+  "description": "Мрачные дроуны и звуки пустоты.",
+  "origin": "Европа, 80-е",
+  "vibe": "Пустота, космос",
+  "artists": "Lustmord",
+  "searchTrack": "Lustmord Black Star",
+  "colorHex": "#212121"
+ },
+ {
+  "name": "Дроун",
+  "description": "Один звук, растянутый на минуты. Медитация.",
+  "origin": "США/Япония, 60-е",
+  "vibe": "Медитация, бесконечность",
+  "artists": "La Monte Young",
+  "searchTrack": "La Monte Young The Well Tuned Piano",
+  "colorHex": "#616161"
+ },
+ {
+  "name": "Хайперпоп",
+  "description": "Ультра-поп: питч-шифты, глитчи и максимум яркости.",
+  "origin": "Великобритания/Интернет, 2010-е",
+  "vibe": "Ярко, хаотично",
+  "artists": "100 gecs",
+  "searchTrack": "100 gecs Money Machine",
+  "colorHex": "#E040FB"
+ },
+ {
+  "name": "Джерси-клаб",
+  "description": "Скороговорки поверх бутлег-хауса.",
+  "origin": "США, Нью-Джерси, 2000-е",
+  "vibe": "Быстро, задорно",
+  "artists": "DJ Sliink",
+  "searchTrack": "DJ Sliink Banned From The Club",
+  "colorHex": "#FF8F00"
+ },
+ {
+  "name": "Футворк",
+  "description": "Чикагский джуг: 160 BPM и танцевальные батлы.",
+  "origin": "США, Чикаго, 2010-е",
+  "vibe": "Скорость, батл",
+  "artists": "DJ Rashad",
+  "searchTrack": "DJ Rashad Let It Go",
+  "colorHex": "#D500F9"
+ },
+ {
+  "name": "Трэп-метал",
+  "description": "Трэп-биты + метал-крик = новый хаос.",
+  "origin": "США, 2010-е",
+  "vibe": "Хаос, агрессия",
+  "artists": "Scarlxrd",
+  "searchTrack": "Scarlxrd King Scar",
+  "colorHex": "#B71C1C"
+ },
+ {
+  "name": "Рэп-рок",
+  "description": "Рэп и рок в одном миксе.",
+  "origin": "США, 80-е",
+  "vibe": "Кач, драйв",
+  "artists": "Rage Against the Machine",
+  "searchTrack": "RATM Killing in the Name",
+  "colorHex": "#43A047"
+ },
+ {
+  "name": "Металкор",
+  "description": "Метал + хардкор-кач + чистый припев.",
+  "origin": "США, 2000-е",
+  "vibe": "Жёстко, эмоционально",
+  "artists": "Bring Me The Horizon",
+  "searchTrack": "BMTH Can You Feel My Heart",
+  "colorHex": "#455A64"
+ },
+ {
+  "name": "Дэткор",
+  "description": "Дэт-метал с брейкдаунами.",
+  "origin": "США, 2000-е",
+  "vibe": "Брутально, кач",
+  "artists": "Suicide Silence",
+  "searchTrack": "Suicide Silence You Only Live Once",
+  "colorHex": "#263238"
+ },
+ {
+  "name": "Скримо",
+  "description": "Крик-вокал и эмоциональные гитары.",
+  "origin": "США, 90-е",
+  "vibe": "Крик, боль",
+  "artists": "Saosin",
+  "searchTrack": "Saosin Seven Years",
+  "colorHex": "#D81B60"
+ },
+ {
+  "name": "Пост-рок",
+  "description": "Инструментальные эпопеи: тихо-громко-космос.",
+  "origin": "Великобритания/США, 90-е",
+  "vibe": "Кино в голове",
+  "artists": "Godspeed You Black Emperor",
+  "searchTrack": "GYBE Storm",
+  "colorHex": "#546E7A"
+ },
+ {
+  "name": "Математический рок",
+  "description": "Сломанные ритмы и сложные гитарные партии.",
+  "origin": "США, 90-е",
+  "vibe": "Умно, странно",
+  "artists": "American Football",
+  "searchTrack": "American Football Never Meant",
+  "colorHex": "#8D6E63"
+ },
+ {
+  "name": "Джаз-фьюжн",
+  "description": "Джаз + рок + фанк = виртуозный сплав.",
+  "origin": "США, 70-е",
+  "vibe": "Виртуозно, драйв",
+  "artists": "Return to Forever",
+  "searchTrack": "Return to Forever Spain",
+  "colorHex": "#FFB74D"
+ },
+ {
+  "name": "Смус-джаз",
+  "description": "Гладкий радио-джаз для вечера.",
+  "origin": "США, 80-е",
+  "vibe": "Гладко, уютно",
+  "artists": "Kenny G",
+  "searchTrack": "Kenny G Songbird",
+  "colorHex": "#A1887F"
+ },
+ {
+  "name": "Электро-свинг",
+  "description": "Джаз 30-х + электронные биты. Танцы и стиль.",
+  "origin": "Европа, 90-е",
+  "vibe": "Стильно, танцевально",
+  "artists": "Caravan Palace",
+  "searchTrack": "Caravan Palace Lone Digger",
+  "colorHex": "#8D6E63"
+ },
+ {
+  "name": "Сигналвейв",
+  "description": "Синтвейв, растворённый в эмбиенте.",
+  "origin": "США, 2010-е",
+  "vibe": "Космос, тоска",
+  "artists": "Timecop1983",
+  "searchTrack": "Timecop1983 On the Run",
+  "colorHex": "#5E35B1"
+ },
+ {
+  "name": "Тропикалия",
+  "description": "Бразильский фолк с роком и авангардом.",
+  "origin": "Бразилия, 60-е",
+  "vibe": "Смело, странно",
+  "artists": "Caetano Veloso",
+  "searchTrack": "Caetano Veloso Alegria Alegria",
+  "colorHex": "#EF9A9A"
+ },
+ {
+  "name": "Кудуро",
+  "description": "Южноафриканский техно с племенным битом.",
+  "origin": "ЮАР, 90-е",
+  "vibe": "Племя, танец",
+  "artists": "DJ Mujava",
+  "searchTrack": "DJ Mujava Township Funk",
+  "colorHex": "#F57C00"
+ },
+ {
+  "name": "Грув-метал",
+  "description": "Качающий метал с ритм-гитарой как главной.",
+  "origin": "США, 90-е",
+  "vibe": "Кач, мощь",
+  "artists": "Pantera",
+  "searchTrack": "Pantera Walk",
+  "colorHex": "#616161"
+ },
+ {
+  "name": "Сладж-метал",
+  "description": "Медленный, грязный, подавляющий.",
+  "origin": "США, 90-е",
+  "vibe": "Грязь, тяжесть",
+  "artists": "Melvins",
+  "searchTrack": "Melvins Honey Bucket",
+  "colorHex": "#3E2723"
+ },
+ {
+  "name": "Диджитал-хардкор",
+  "description": "Брейккор: хаос из ломаных битов.",
+  "origin": "США, 90-е",
+  "vibe": "Хаос, шум",
+  "artists": "Atari Teenage Riot",
+  "searchTrack": "Atari Teenage Riot Digital Hardcore",
+  "colorHex": "#D50000"
+ },
+ {
+  "name": "Ночной кор",
+  "description": "Быстрый фанатский драм-н-бейс с аниме-вокалом.",
+  "origin": "Интернет, 2000-е",
+  "vibe": "Энергия, аниме",
+  "artists": "Utsu-P",
+  "searchTrack": "Utsu-P Ghost Rule",
+  "colorHex": "#E91E63"
+ },
+ {
+  "name": "Фолк-метал",
+  "description": "Метал с народными инструментами.",
+  "origin": "Скандинавия, 90-е",
+  "vibe": "Эпично, народно",
+  "artists": "Korpiklaani",
+  "searchTrack": "Korpiklaani Vodka",
+  "colorHex": "#558B2F"
+ },
+ {
+  "name": "Авангард",
+  "description": "Искусство, которое ломает правила. Музыка без границ.",
+  "origin": "Европа, 20 век",
+  "vibe": "Странно, смело",
+  "artists": "John Cage",
+  "searchTrack": "John Cage 4'33",
+  "colorHex": "#616161"
+ },
+ {
+  "name": "Экспериментальная",
+  "description": "Звуки, которых не было раньше. Лаборатория музыки.",
+  "origin": "Весь мир",
+  "vibe": "Ново, непривычно",
+  "artists": "Bjork",
+  "searchTrack": "Bjork Army of Me",
+  "colorHex": "#9575CD"
+ },
+ {
+  "name": "Магический реализм",
+  "description": "Музыка снов: фолк, эмбиент и тайна.",
+  "origin": "США, 2010-е",
+  "vibe": "Сонно, таинственно",
+  "artists": "Vashti Bunyan",
+  "searchTrack": "Vashti Bunyan Diamond Day",
+  "colorHex": "#A1887F"
+ },
+ {
+  "name": "Барокко-поп",
+  "description": "Поп с оркестром и изяществом 18 века.",
+  "origin": "США/Великобритания, 60-е",
+  "vibe": "Изящно, пышно",
+  "artists": "The Beach Boys",
+  "searchTrack": "Beach Boys God Only Knows",
+  "colorHex": "#90CAF9"
+ },
+ {
+  "name": "Чембер-поп",
+  "description": "Камерный оркестр встречает поп.",
+  "origin": "США, 90-е",
+  "vibe": "Душевно, акустически",
+  "artists": "Sufjan Stevens",
+  "searchTrack": "Sufjan Stevens Casimir Pulaski Day",
+  "colorHex": "#81C784"
+ },
+ {
+  "name": "Этериал-вейв",
+  "description": "Воздушные синтезаторы и женский вокал.",
+  "origin": "Великобритания, 80-е",
+  "vibe": "Небесно, нежно",
+  "artists": "Cocteau Twins",
+  "searchTrack": "Cocteau Twins Cherry-coloured Funk",
+  "colorHex": "#B39DDB"
+ },
+ {
+  "name": "Кельтский рок",
+  "description": "Ирландские мотивы с рок-драйвом.",
+  "origin": "Ирландия, 70-е",
+  "vibe": "Задорно, народно",
+  "artists": "The Pogues",
+  "searchTrack": "The Pogues Dirty Old Town",
+  "colorHex": "#66BB6A"
+ },
+ {
+  "name": "Марш",
+  "description": "Ритм шага, барабаны и духовые.",
+  "origin": "Европа, 19 век",
+  "vibe": "Строево, мощно",
+  "artists": "John Philip Sousa",
+  "searchTrack": "Sousa Stars and Stripes",
+  "colorHex": "#8D6E63"
+ },
+ {
+  "name": "Вальс",
+  "description": "Три четверти и кружение.",
+  "origin": "Австрия, 19 век",
+  "vibe": "Изящно, кружится",
+  "artists": "Johann Strauss",
+  "searchTrack": "Strauss Blue Danube",
+  "colorHex": "#4FC3F7"
+ },
+ {
+  "name": "Опера",
+  "description": "Драма, оркестр и голоса на пределе.",
+  "origin": "Италия, 17 век",
+  "vibe": "Величественно",
+  "artists": "Puccini",
+  "searchTrack": "Puccini Nessun Dorma",
+  "colorHex": "#7E57C2"
+ },
+ {
+  "name": "Романс",
+  "description": "Лирические песни о любви под гитару/фортепиано.",
+  "origin": "Россия, 19 век",
+  "vibe": "Нежно, грустно",
+  "artists": "Александр Вертинский",
+  "searchTrack": "Вертинский Жёлтый ангел",
+  "colorHex": "#EF9A9A"
+ },
+ {
+  "name": "Бит",
+  "description": "Ритмичный рок-н-ролл 60-х с чётким битом.",
+  "origin": "Великобритания, 60-е",
+  "vibe": "Задорно, просто",
+  "artists": "The Beatles",
+  "searchTrack": "Beatles Twist and Shout",
+  "colorHex": "#EF5350"
+ },
+ {
+  "name": "Меренге",
+  "description": "Быстрый доминиканский танец с аккордеоном.",
+  "origin": "Доминикана, 19 век",
+  "vibe": "Жарко, танцевально",
+  "artists": "Juan Luis Guerra",
+  "searchTrack": "Juan Luis Guerra Burbujas de Amor",
+  "colorHex": "#FF7043"
+ },
+ {
+  "name": "Кумбия",
+  "description": "Колумбийские ритмы с аккордеоном. Музыка улиц Латинской Америки.",
+  "origin": "Колумбия, 40-е",
+  "vibe": "Народно, танцевально",
+  "artists": "Carlos Vives",
+  "searchTrack": "Carlos Vives La Gota Fria",
+  "colorHex": "#FFB300"
+ },
+ {
+  "name": "Реггетон",
+  "description": "Дембоу-ритм, пуэрто-риканский поп.",
+  "origin": "Пуэрто-Рико, 90-е",
+  "vibe": "Жарко, кач",
+  "artists": "Daddy Yankee",
+  "searchTrack": "Daddy Yankee Gasolina",
+  "colorHex": "#D32F2F"
+ },
+ {
+  "name": "Хаус-электро",
+  "description": "Гибрид хауса и электро: грязный бас и грув.",
+  "origin": "США, 80-е",
+  "vibe": "Грув, механика",
+  "artists": "Cajmere",
+  "searchTrack": "Cajmere Percolator",
+  "colorHex": "#26A69A"
+ },
+ {
+  "name": "Афрохаус",
+  "description": "Нигерийский поп с афробитс-корнями.",
+  "origin": "Нигерия, 2010-е",
+  "vibe": "Солнечно, танцевально",
+  "artists": "Burna Boy",
+  "searchTrack": "Burna Boy On The Low",
+  "colorHex": "#F57C00"
+ },
+ {
+  "name": "Альта-фолк",
+  "description": "Инди-фолк с электроникой и грувом.",
+  "origin": "Великобритания, 2010-е",
+  "vibe": "Свежо, танцевально",
+  "artists": "Omar Apollo",
+  "searchTrack": "Omar Apollo Evergreen",
+  "colorHex": "#66BB6A"
+ },
+ {
+  "name": "Дрилл-UK",
+  "description": "Британский дрилл: 140 BPM и мрачные басы.",
+  "origin": "Лондон, 2010-е",
+  "vibe": "Мрачно, резко",
+  "artists": "Headie One",
+  "searchTrack": "Headie One 18HUNNA",
+  "colorHex": "#263238"
+ },
+ {
+  "name": "Фьюче-фанк",
+  "description": "Синтвейв + фанк 80-х. Танцы под неон.",
+  "origin": "США, 2010-е",
+  "vibe": "Ретро, танцевально",
+  "artists": "Yung Bae",
+  "searchTrack": "Yung Bae Bae",
+  "colorHex": "#FF4081"
+ },
+ {
+  "name": "Джерси-дрилл",
+  "description": "Джерси-клаб и дрилл: скороговорки 160 BPM.",
+  "origin": "США, 2020-е",
+  "vibe": "Быстро, дерзко",
+  "artists": "Bandmanrill",
+  "searchTrack": "Bandmanrill Heartbroken",
+  "colorHex": "#FF8F00"
+ },
+ {
+  "name": "Городской романс",
+  "description": "Лирика города: неон, дождь, одиночество.",
+  "origin": "СНГ, 2010-е",
+  "vibe": "Меланхолично, стильно",
+  "artists": "МОТ",
+  "searchTrack": "МОТ Капкан",
+  "colorHex": "#5C6BC0"
+ },
+ {
+  "name": "Дарк-рэп",
+  "description": "Рэп о внутренней тьме: медленный, глубокий.",
+  "origin": "США/СНГ, 2010-е",
+  "vibe": "Тёмно, глубоко",
+  "artists": "$uicideboy$",
+  "searchTrack": "Suicideboys Paris",
+  "colorHex": "#212121"
+ }
+]
